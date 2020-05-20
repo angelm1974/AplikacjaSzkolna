@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "szkola-sroda",
+  "private_key_id": "e3f112c8d1632a32451122fa9cb663b007b3cc0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDO0RRgQKhnobed\n6/PFs+WBRIvVjlaWClwoa1nKHM/he2Z87lAI/Futz14sm3LW8uSWYj/UrgYvQbcD\ni9deDrRAKdMu9z4p1itFyRwNeeUK4E4nsqggCEP+sS6xHDto8TlHYIRA3ZVECdTD\nQxH0SkWmnAnjXInD6NNqgvyuui0swrvkpsIZV3kBv6NQbnihIn9b7MuNJtcfnZaH\n9xIP9C9De/eTu0IDctmXeKXESgXi4Q6d36zfTjn2ZUvHJkmgNOamb3IOG7aBPtFV\nZov0C2eOsMEPLEqjqVGuzIe1Sc38zyOZ0TUNNObwc3PnU5IzStQ2TLpUeW5VgyO5\noNqMgVLfAgMBAAECggEABW7gA9NPA+yZ/++7PLNde8g1iuECt02ttBt12rsSXvsN\n6zRGLVDr26S59Z6zz/Ubj4kkjM1xjiZCIjlh6VpQ3pVQCJ4oJ5M1Gc/kXm+YVnEk\nEc4+CnFiepC5svS/PszaKLI0EebVoq7wxEcWc/4g1vVRxoOffuJhQ3K4zqJHc4iH\nR+ynrhTGbq0JBJWKHUFGYLERrejcfMVB0wfBS8tc6BajtEfaPnVh9e/uvWMyJO/A\nHzII6cmKn9Xxa7h8x6NNFpx2WiUnSMdn/y+GIw48KwnP6M/1sudjqDTha4jX7HlY\nmSpLOfOujGGrKqRqQ/xWfdULpf4mG6Hduu6bdJQgqQKBgQD/cEhWAZUdyI4yZniL\nQxDf109Bc/OZ+HVCy2EyDBH45OJorvyvzXkvucmhag7ivR0WtiBIN2SZChwB/Ys4\nsuPK7SilesTBdtSEKaZ5crm5AAp9jrwL0bsc3bLwPQSqDiVJvG03QExx4qiQRB9W\ntiIvs1g8Z8J5eLFmgDJdJtx5fQKBgQDPRXDek4Da4jy82oNHtE1zzqXPo/MX1g8C\np/rKBqkPPuWFialUQjk96q92J3yVE4qdHIKpIXnZa3u05YYstsiywmnlaoXH/ykb\nqs4zIadxzNsOuNAG4dPakhLB+9+2i8rAQ1xM3l5L5/FRuSx26BQaAN4qgIu4rKWF\n/XVFqLeMiwKBgEw9zklldYWLO+4NKcOfQ+Ub1bsaicYWI6HJJHyUn7SjVHScbi1m\n7dnx4R29ky3X9lu2BpKnfe4z10I81BYbRuRlvvENYLbB6hJ8gATV2ls+iOMK/FOm\nyOuHvIX6IG9Fg5mrlQmdtnNzjI5q1tPBzxhftmFpMuGgxYprjxzAoaPdAoGAFOYb\ni1W0GF3XYfNmaUR0ysh7T4Robm7W9J2bW+NwCGl/GwfWWviSbPvM1U0F8sIVp+HI\nCuWlM5by0jqSXM/RTLTtmIQ1GQVRT8jZIa6zA3Z0X/eigg8jHVa9LXIIDI/r0Zb5\nJ4cEWwL4AhV5tkOQQ07zF7X+YJCH4Aq+WFe6qiECgYEAsxlpTVQ4vGUo3s+SvYrj\nDA5DTvOKvwypiGGMzQQtzvVQrIi/BDANFKYHJZgLTHN17LGuO9f488vc0ohBwe+T\n/mJbCQryvz0Yu4opP8hncYhNPo1AbyHCIml5wOKXuUHplrQixM6Kur6ukmCGRT1R\nHZP4yk5nPxsvIo/zeJsR7ow=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3obfc@szkola-sroda.iam.gserviceaccount.com",
+  "client_id": "117053609493007492385",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3obfc%40szkola-sroda.iam.gserviceaccount.com"
+}
