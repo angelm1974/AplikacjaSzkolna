@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { CiastkaService } from '../core/services/ciastka.service';
 
 @Component({
   selector: 'app-ciastka',
@@ -7,9 +8,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CiastkaComponent implements OnInit {
 
-  constructor() { }
+  constructor(private ciastkaService: CiastkaService) { }
 
-  ngOnInit(): void {
+  ngOnInit() {
+    this.ciastkaService.getCiatka().subscribe(console.log);
   }
 
 }
